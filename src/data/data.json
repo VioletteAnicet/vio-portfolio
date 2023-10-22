@@ -1,0 +1,193 @@
+{
+  "main": {
+    "name": {
+        "first": "Violette",
+        "last": "Anicet"
+    },
+    "logo": true,
+    "titles": [
+        "Creative Technologist.",
+        "Medtech Engineer.",
+        "Bad Bitch."
+    ],
+    "headings": {
+      "about": "About",
+      "skills": "Skills",
+      "portfolio": "Portfolio",
+      "contact": "Contact"
+    }
+  },
+    "about": {
+      "bio": "I am a Creative Technology Engineering student at De Vinci Innovation Center. I am part of the Resilient Futures group, with the ambition of working on new sustainable technologies, focusing on low-techs and biomaterials. Being sensitive to new technologies and to the continuous improvement of our lifestyle and the empowerment of our consumption, I seek to rethink our consumption habits in order to minimize our waste. I have a particular interest in biotechnology and electronics, and I like to mix living organisms with technical development tools because of the diversity of the themes addressed and the vast possibilities of innovation. This is why I decided to carry out projects in the field that as always touched me : health, and especially how to find innovative solutions to improve and make this industry more sustainable.",
+      "facts": [
+        {"name": "Location",
+        "value": "Paris, France"
+        },
+        {"name": "Education",
+        "value": "ESILV : Ecole Supérieur d'Ingénieurs du pôle Léonard de Vinci"
+        },
+        {"name": "Interests",
+        "value": "Travel, Skiing"
+        }
+      ]
+    },
+    "skills": {
+    "defaultCategory": "Technics",
+    
+    "categories": [
+      {
+        "category": "Technical Skills",
+        "faClass": "fa-solid fa-laptop-code",        
+        "skillList":[
+          {
+            "name": "VueJS",
+            "level": "100"
+          },
+          {
+            "name": "Python",
+            "level": "60"
+          },
+          
+          {
+            "name": "MySQL",
+            "level": "70"
+          },
+          {
+            "name": "Fusion 360",
+            "level": "70"
+          },
+          {
+            "name": "Rhinoceros 7",
+            "level": "80"
+          },
+          {
+            "name": "Photoshop",
+            "level": "60"
+          }
+        ]
+      },
+
+      {
+        "category": "Business",
+        "subtitle": "",
+        "faClass": "fa-solid fa-chart_pie",        
+        "skillList":[
+          {
+            "name": "Maketing Strategy",
+            "level": "60"
+          },
+          
+          {
+            "name": "Business Plans",
+            "level": "90"
+          },
+          {
+            "name": "Innovation Management",
+            "level": "90"
+          },
+          {
+            "name": "Ethics of Engineer",
+            "level": "70"
+          }
+        ]
+      }
+    ]
+  },
+"portfolio": {
+  "defaultFilter": "Autonomous Aquaponic Platform",
+  "projects": [
+    {
+      "title": "Aquatic System",
+      "description": "click to see more",
+      "image": "aqua.jpg",
+      "link": "https://dvic.devinci.fr/projects/aquaponic-system",
+      "source": "https://dvic.devinci.fr/projects/aquaponic-system",
+      "filter": "Autonomous Aquaponic Platform"
+        },
+    {
+      "title": "Crop System",
+      "description": "click to see more",
+      "image": "crop.jpg",
+      "link": "https://dvic.devinci.fr/projects/aquaponic-system",
+      "source": "https://dvic.devinci.fr/projects/aquaponic-system",
+      "filter": "Autonomous Aquaponic Platform"
+    },
+    {
+      "title": "System Maintenance",
+      "description": "click to see more",
+      "image": "maintenance2.jpg",
+      "link": "https://dvic.devinci.fr/tutorial/aquaponic-system-maintenance",
+      "source": "https://dvic.devinci.fr/tutorial/aquaponic-system-maintenance",
+      "filter": "Autonomous Aquaponic Platform"
+    },
+    {
+      "title": "Haptic Kit Prosthesis",
+      "description": "click to see more",
+      "image": "haptic.png",
+      "link": "https://dvic.devinci.fr/projects/hapticprosthesis",
+      "source": "https://dvic.devinci.fr/projects/hapticprosthesis",
+      "filter": "Bioplastic Patch"
+    },
+    {
+      "title": "Bioplastic Patch",
+      "description": "click to see more",
+      "image": "bioplastic_patch_prosthesis.jpg",
+      "link": "https://dvic.devinci.fr/tutorial/bioplastic-patch",
+      "source": "https://dvic.devinci.fr/tutorial/bioplastic-patch",
+      "filter": "Bioplastic Patch"
+    },
+    {
+      "title": "The KeyVoila Project",
+      "description": "click to see more",
+      "image": "keyvoila.jpg",
+      "link": "https://dvic.devinci.fr/quickstarter/keyvoila",
+      "source": "https://dvic.devinci.fr/quickstarter/keyvoila",
+      "filter": "Quickstarter"
+    },
+    {
+      "title": "Kickstarter Website",
+      "description": "click to see more",
+      "image": "kickstarter.jpg",
+      "link": "https://www.kickstarter.com/projects/violetteanicet/keyvoila-grab-your-keys/",
+      "source": "https://www.kickstarter.com/projects/violetteanicet/keyvoila-grab-your-keys/",
+      "filter": "Quickstarter"
+    },
+    {
+      "title": "KeyVoilà on Instagram",
+      "description": "click to see more",
+      "image": "insta2.jpg",
+      "link": "https://www.instagram.com/keyvoila/",
+      "source": "https://www.instagram.com/keyvoila/",
+      "filter": "Quickstarter"
+    }
+
+  ]
+},
+    "contact":{
+      "text": "Contact Infos",
+      "formTitle": "Send Me A Message",
+      "formEndPoint": "",
+      "city": "Paris, France",
+      "email": "violette.anicet@hotmail.fr",
+      "phone": "+33 6 38 16 95 64",
+      "resumeLink": "https://drive.google.com/file/d/1f6fdcwawhM-6fnAPvnSzT0lWHw87iiC5/view?usp=sharing",
+      "form": true,
+      
+      "social": [
+          {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/in/violette-anicet/",
+            "faClass": "fab fa-linkedin"
+          },
+          {
+            "name": "facebook",
+            "url": "https://www.facebook.com/violette.anicet/",
+            "faClass": "fab fa-facebook-f"
+          }
+        ]
+      },
+  "footer": {
+    "copyrightText": "All Rights Reserved."
+  }
+
+}
